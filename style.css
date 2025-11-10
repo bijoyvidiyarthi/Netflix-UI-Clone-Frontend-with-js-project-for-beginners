@@ -373,7 +373,7 @@ footer ul.grid-container>li.button {
 
     }
     .main input {
-        min-width: 250px;
+        max-width: 250px;
     }
 
     .btn {
