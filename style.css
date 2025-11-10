@@ -372,6 +372,9 @@ footer ul.grid-container>li.button {
         width: 104px;
 
     }
+    .main input {
+        min-width: 250px;
+    }
 
     .btn {
         padding: 3px 30px;
