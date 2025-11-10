@@ -377,14 +377,15 @@ footer ul.grid-container>li.button {
     }
 
     .btn {
-        padding: 3px 30px;
-        font-size: 12px;
+        padding: 8px 30px;
+        font-size: 14px;
     }
 
     .btn-red {
 
-        padding: 3px 19px;
-        font-size: 13px;
+        padding: 8px 17px;
+        font-size: 14px;
+
     }
 
     .front-txt> :nth-child(1) {
