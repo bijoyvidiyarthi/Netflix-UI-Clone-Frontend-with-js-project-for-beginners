@@ -22,14 +22,16 @@ This project is a simple clone of the Netflix landing page UI, built using HTML,
 - **Assets** – Custom images, videos, and icons in the `assets/` folder
 
 ## Project Structure
-.
-├── assets/
-│   ├── icons/          # Icon files (e.g., SVG or PNG for UI elements)
-│   ├── image/          # Image files (e.g., bg.jpg for background)
-│   └── video/          # Video files (e.g., MP4 for preview overlays)
-├── favicon.ico         # Favicon for the site
-├── index.html          # Main HTML file containing the page structure and content
-└── style.css           # CSS stylesheet for all styling
+```bash
+📁 Portfolio-Website/
+├── 📁 assets/
+│   ├── 📁 icons/          # Icon files (e.g., SVG or PNG for UI elements)
+│   ├── 📁 image/          # Image files (e.g., bg.jpg for background)
+│   └── 📁 video/          # Video files (e.g., MP4 for preview overlays)
+├── 🎨 favicon.ico         # Favicon for the site
+├── 📄 index.html          # Main HTML file containing the page structure and content
+└── 🎨 style.css           # CSS stylesheet for all styling
+```
 
 
 ## Installation
