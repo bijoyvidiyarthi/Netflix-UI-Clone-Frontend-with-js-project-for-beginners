@@ -59,6 +59,8 @@ Feel free to modify the code to add more features (e.g., form validation, langua
 
 ![Hero Section Screenshot](assets/netflix%20website%20clone.jpg)
 
+![Mobile View Screenshot](assets/MobileView.jpg)
+
 <!-- Example placeholders -->
 <!-- ![Hero Section](assets/image/screenshot-hero.png) -->
 <!-- ![FAQ Section](assets/image/screenshot-faq.png) -->
