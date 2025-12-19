@@ -59,7 +59,14 @@ Feel free to modify the code to add more features (e.g., form validation, langua
 
 ![Hero Section Screenshot](assets/netflix%20website%20clone.jpg)
 
-![Mobile View Screenshot](assets/mobileView.jpg)
+## Mobile View Screenshot
+
+<div align="center">
+  <figure>
+    <img src="assets/mobileView.jpg" alt="Mobile View Screenshot" width="300" />
+    <figcaption><em>Mobile View of the Application</em></figcaption>
+  </figure>
+</div>
 
 <!-- Example placeholders -->
 <!-- ![Hero Section](assets/image/screenshot-hero.png) -->
